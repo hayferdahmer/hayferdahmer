@@ -1,16 +1,17 @@
-<div align="center"> <img src="assets/banner.svg"
+<div align="center">
 
-<!--
-**hayferdahmer/hayferdahmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner.svg" alt="hayferdahmer" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/inventory.svg" alt="hayferdahmer" width="100%"/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<img src="assets/graveyard.svg" alt="hayferdahmer" width="100%"/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<sub>hayferdahmer</sub>
+
+</div>
