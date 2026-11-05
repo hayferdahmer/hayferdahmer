@@ -12,6 +12,4 @@
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-<sub>hayferdahmer</sub>
-
 </div>
